@@ -1,0 +1,7 @@
+.box:nth-child(2n) {
+    background: rgb(125, 125, 141);
+    color: white;
+}
+.box:nth-child(2n+1) {
+    background:white;
+}
